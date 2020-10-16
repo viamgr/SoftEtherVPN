@@ -1,0 +1,2 @@
+# SoftEtherVPN
+automated convenience script
